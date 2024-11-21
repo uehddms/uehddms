@@ -9,10 +9,10 @@
 ### 💻 My projects 
 | 기간 |프로젝트|소개|기술|수상|바로보기|
 | --- | -----------|---|---|---|------|
-| 2024.11 ~ | 이루미 | 버킷리스트 작성 웹 | React, Spring| | |
-| 2024.10<br>-2024.11 | 조인어스 | 공유를 통해 환경보호를 실천하고자 하는 서비스 | React, Django | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
-| 2024.07<br>-2024.09 | 한케어 | 한의학 기반 맞춤형 건강관리 서비스 | React, Spring | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
-| 2024.06<br>-2024.07 | 단장 | MZ세대인 단편 영화인들의 성장을 위한 서비스 | Html,Django | | [단장](https://github.com/2024-HERETHON/2024-Herethon-16) |
+| 2024.11 ~ | 이루미 | 버킷리스트 작성 웹 | React,<br>Spring| | |
+| 2024.10<br>-2024.11 | 조인어스 | 공유를 통해 환경보호를 실천하고자 하는 서비스 | React,<br>Django | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
+| 2024.07<br>-2024.09 | 한케어 | 한의학 기반 맞춤형 건강관리 서비스 | React,<br>Spring | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
+| 2024.06<br>-2024.07 | 단장 | MZ세대인 단편 영화인들의 성장을 위한 서비스 | Html,<br>Django | | [단장](https://github.com/2024-HERETHON/2024-Herethon-16) |
 
 <br>
 
