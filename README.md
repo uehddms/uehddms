@@ -6,20 +6,30 @@
 <br/>
 <br/>
 
+### 📚 Studying
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+
+<br/>
+<br/>
+
 ### 💻 My projects 
-| 기간 |프로젝트|소개|기술|수상|바로보기|
-| --- | -----------|---|---|---|------|
-| 2024.11 ~ 2024.12 | WakeupBuddy | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스| React,<br>Node.js| |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
-| 2024.10<br>-2024.11 | 조인어스 | 공유를 통해 환경보호를 실천하고자 하는 서비스 | React,<br>Django | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
-| 2024.07<br>-2024.09 | 한케어 | 한의학 기반 맞춤형 건강관리 서비스 | React,<br>Spring | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
-| 2024.06<br>-2024.07 | 단장 | MZ세대인 단편 영화인들의 성장을 위한 서비스 | Html,<br>Django | | [단장](https://github.com/2024-HERETHON/2024-Herethon-16) |
+| 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
+|---|---|---|---|---|
+| 2024.11 ~ 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy**| React,<br>Node.js| |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
+| 2024.10<br>-2024.11 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React,<br>Django | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
+| 2024.07<br>-2024.09 | 한의학 기반 맞춤형 건강관리 서비스, **한케어** | React,<br>Spring | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
+| 2024.06<br>-2024.07 | MZ세대인 단편 영화인들의 성장을 위한 서비스, **단장** | Html,<br>Django | | [단장](https://github.com/2024-HERETHON/2024-Herethon-16) |
 
-<br>
 
-### 🛖 I'm in ..
+
+<!--### 🛖 I'm in ..
 | |소속| 
 |---|---|
-| 2024.03 ~ | [멋쟁이사자처럼 대학 12기](https://github.com/Likelion-at-SMWU-12th) |
+| 2024.03 ~ | [멋쟁이사자처럼 대학 12기](https://github.com/Likelion-at-SMWU-12th) | -->
 
 <br>
 
