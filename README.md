@@ -37,7 +37,7 @@
 <br>
 
 ### 🔥 My experience
-- 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 [HERETHON](https://harvest-machine-d20.notion.site/2024-HERETHON-01a0143f27d240ae9ad742ceddf18ac6) 참여
+- 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 [HERETHON](https://harvest-machine-d20.notion.site/2024-HERETHON-01a0143f27d240ae9ad742ceddf18ac6) 본선
 - 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
 - ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 인기상
 - 🏆 2024 멋쟁이사자처럼 대학 [4호선톤](https://www.notion.so/4-108d5e50be41800685fcddaf211f3c1f?pvs=4) 대상
