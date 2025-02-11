@@ -26,10 +26,13 @@
 
 
 
-<!--### 🛖 I'm in ..
+### 🛖 I'm in ..
 | |소속| 
 |---|---|
-| 2024.03 ~ | [멋쟁이사자처럼 대학 12기](https://github.com/Likelion-at-SMWU-12th) | -->
+| 2025.01 ~ 현재 | 멋쟁이사자처럼 대학 숙명여대 13기 프론트엔드장 |
+| 2024.03<br>-2024.12 | [멋쟁이사자처럼 대학 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) |
+| 2024.02<br>-2024.08 | [코드하나 CNTO - 어린이 코딩교육동아리, 8기 기획부장](https://www.codehana.co.kr/) |
+| 2023.09<br>-2024.01 | [코드하나 CNTO - 어린이 코딩교육동아리, 7기 망원초 담당 교육, 기획부원](https://www.codehana.co.kr/) |
 
 <br>
 
@@ -37,7 +40,7 @@
 - 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 HERETHON 참여
 - 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
 - ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 인기상
-- 🏆 2024 멋쟁이사자처럼 [4호선톤](https://www.notion.so/4-108d5e50be41800685fcddaf211f3c1f?pvs=4) 대상
+- 🏆 2024 멋쟁이사자처럼 대학 [4호선톤](https://www.notion.so/4-108d5e50be41800685fcddaf211f3c1f?pvs=4) 대상
 
 <br>
 <br>
