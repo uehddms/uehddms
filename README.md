@@ -23,16 +23,16 @@
 | 2024.10<br>-2024.11 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React,<br>Django | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
 | 2024.07<br>-2024.09 | 한의학 기반 맞춤형 건강관리 서비스, **한케어** | React,<br>Spring | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
 | 2024.06<br>-2024.07 | MZ세대인 단편 영화인들의 성장을 위한 서비스, **단장** | Html,<br>Django | | [단장](https://github.com/2024-HERETHON/2024-Herethon-16) |
-
+<br>
 
 
 ### 🛖 I'm in ..
 | |소속| 
 |---|---|
 | 2025.01 ~ 현재 | 멋쟁이사자처럼 대학 숙명여대 13기 프론트엔드장 |
-| 2024.03<br>-2024.12 | [멋쟁이사자처럼 대학 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) |
-| 2024.02<br>-2024.08 | [코드하나 CNTO - 어린이 코딩교육동아리, 8기 기획부장](https://www.codehana.co.kr/) |
-| 2023.09<br>-2024.01 | [코드하나 CNTO - 어린이 코딩교육동아리, 7기 망원초 담당 교육, 기획부원](https://www.codehana.co.kr/) |
+| 2024.03-2024.12 | [멋쟁이사자처럼 대학 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) 프론트엔드 아기사자 |
+| 2024.02-2024.08 | 코드하나 CNTO - 어린이 코딩교육동아리 8기 기획부장 |
+| 2023.09-2024.01 | [코드하나 CNTO - 어린이 코딩교육동아리](https://www.codehana.co.kr/) 7기 망원초 담당 교육, 기획부원] |
 
 <br>
 
