@@ -21,7 +21,7 @@
 ### 💻 My projects 
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
 |---|---|---|---|---|
-| 2025.04<br>- 진행 중 | **HIKTERS**| React, TypeScript, <br>Spring | React, TypeScript |[HIKERS](https://github.com/hiker-s)|
+| 2025.04<br>- 진행 중 | **HIKERS**| React, TypeScript, <br>Spring | React, TypeScript |[HIKERS](https://github.com/hiker-s)|
 | 2025.03<br>- 진행 중 | 중학생을 위한 AI기반 경제 교육 플랫폼 **MON+DAY** | React, TypeScript | | [MON+DAY](https://github.com/MON-DA-Y)|
 | 2025.03<br>- 진행 중 | 조인어스 리팩토링 ing ... **New 조인어스*** | React, TypeScript | | [New 조인어스](https://github.com/2024-line4-earth/New_Joinus_FE) |
 | 2024.11 ~ 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy**| React, JavaScript | |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
