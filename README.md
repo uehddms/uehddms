@@ -21,9 +21,9 @@
 ### 💻 My projects 
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
 |---|---|---|---|---|
-| 2025.04<br>- 진행 중 | **HIKERS**| React, TypeScript, <br>Spring | React, TypeScript |[HIKERS](https://github.com/hiker-s)|
 | 2025.03<br>- 진행 중 | 중학생을 위한 AI기반 경제 교육 플랫폼 **MON+DAY** | Next.js, TypeScript | | [MON+DAY](https://github.com/MON-DA-Y)|
 | 2025.03<br>- 진행 중 | 조인어스 리팩토링 ing ... **New 조인어스*** | React, TypeScript | | [New 조인어스](https://github.com/2024-line4-earth/New_Joinus_FE) |
+| 2025.04<br>- 2025.06 | **HIKERS**| React, TypeScript, <br>Spring | 2차 심사 선정 |[HIKERS](https://github.com/hiker-s)|
 | 2024.11 ~ 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy**| React, JavaScript | |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
 | 2024.10<br>-2024.11 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React, JavaScript | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
 | 2024.07<br>-2024.09 | 한의학 기반 맞춤형 건강관리 서비스, **한케어** | React, JavaScript | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
