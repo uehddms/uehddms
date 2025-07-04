@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flatr&logo=typescript&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 </div>
 
 <br/>
