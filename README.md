@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi👋🏻%20I'm%20Dongeun&fontSize=70&color=0:ffe87c,100:f5f7c8&stroke=000000)
+<!-- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi👋🏻%20I'm%20Dongeun&fontSize=70&color=0:ffe87c,100:f5f7c8&stroke=000000) -->
 
 ## ⭐️ You DongEun
 > 🏫 Sookmyung Women's University IT engineering
