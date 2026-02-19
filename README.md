@@ -8,23 +8,14 @@
 <br/>
 <br/>
 
-### 📚 Studying
-<div>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">&nbsp;
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flatr&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-</div>
-
-<br/>
-<br/>
 
 ### 💻 My projects 
 | 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
 |---|---|---|---|---|
+| 2025.08<br>- 2026.02 | 숙명여대 멋쟁이사자처럼 웹 | React, TypeScript | | [SMWU Likelion](https://github.com/Likelion-at-SMWU-WebFounder) |
 | 2025.03<br>- 2025.10 | 중학생을 위한 AI기반 경제 교육 플랫폼 **MON+DAY** | Next.js, TypeScript | | [MON+DAY](https://github.com/MON-DA-Y)|
 | 2025.03<br>- 2025.05 | 조인어스 리팩토링 **New 조인어스*** | React, TypeScript | | [New 조인어스](https://github.com/2024-line4-earth/New_Joinus_FE) |
-| 2025.04<br>- 2025.06 | **HIKERS**| React, TypeScript | 2차 심사 선정 |[HIKERS](https://github.com/hiker-s)|
+| 2025.04<br>- 2025.06 | **HIKERS**| React, TypeScript | 2차 발표심사 대상 선정(8팀) |[HIKERS](https://github.com/hiker-s)|
 | 2024.11 ~ 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy**| React, JavaScript | |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
 | 2024.10<br>-2024.11 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React, JavaScript | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
 | 2024.07<br>-2024.09 | 한의학 기반 맞춤형 건강관리 서비스, **한케어** | React, JavaScript | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
@@ -35,7 +26,9 @@
 ### 🛖 I'm in ..
 | |소속| 
 |---|---|
-| 2025.01 ~ 현재 | 멋쟁이사자처럼 대학 숙명여대 13기 프론트엔드장 |
+| 2026.03-2026.06 | 산학협력 인턴 ||
+| 2026.01-2026.02 | IBK기업은행 2026년 동계 체험형 청년인턴 |
+| 2025.01-2025.12 | 멋쟁이사자처럼 대학 숙명여대 13기 프론트엔드장 |
 | 2024.03-2024.12 | [멋쟁이사자처럼 대학 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) 프론트엔드 아기사자 |
 | 2024.02-2024.08 | 코드하나 CNTO - 어린이 코딩교육동아리 8기 기획부장 |
 | 2023.09-2024.01 | [코드하나 CNTO - 어린이 코딩교육동아리](https://www.codehana.co.kr/) 7기 망원초 담당, 기획부원] |
@@ -47,11 +40,12 @@
 - 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
 - ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 인기상
 - 🏆 2024 멋쟁이사자처럼 대학 [4호선톤](https://www.notion.so/4-108d5e50be41800685fcddaf211f3c1f?pvs=4) 대상
+- 💫 2025 [서울 열린데이터광장 공공데이터 활용 창업 경진대회](https://data.seoul.go.kr/together/cpthb/cpthbDetail.do) 발표심사 대상 8팀 선정
+- 🏅 2026 
 
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uehddms)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
