@@ -6,68 +6,43 @@
 >  🪄 FE Developer
 
 <br/>
-<br/>
 
 
-### 💻 My projects 
-| 기간 | 프로젝트 | 기술 | 수상 | 바로보기 |
+## Project
+
+| Period | Service | Description | Stack | Link |
 |---|---|---|---|---|
-| 2025.08<br>- 2026.02 | 숙명여대 멋쟁이사자처럼 웹 | React, TypeScript | | [SMWU Likelion](https://github.com/Likelion-at-SMWU-WebFounder) |
-| 2025.03<br>- 2025.10 | 중학생을 위한 AI기반 경제 교육 플랫폼 **MON+DAY** | Next.js, TypeScript | | [MON+DAY](https://github.com/MON-DA-Y)|
-| 2025.03<br>- 2025.05 | 조인어스 리팩토링 **New 조인어스*** | React, TypeScript | | [New 조인어스](https://github.com/2024-line4-earth/New_Joinus_FE) |
-| 2025.04<br>- 2025.06 | **HIKERS**| React, TypeScript | 2차 발표심사 대상 선정(8팀) |[HIKERS](https://github.com/hiker-s)|
-| 2024.11 ~ 2024.12 | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스, **WakeupBuddy**| React, JavaScript | |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
-| 2024.10<br>-2024.11 | 공유를 통해 환경보호를 실천하고자 하는 서비스, **조인어스** | React, JavaScript | 멋쟁이사자처럼 4호선톤 대상 | [조인어스](https://github.com/2024-line4-earth) |
-| 2024.07<br>-2024.09 | 한의학 기반 맞춤형 건강관리 서비스, **한케어** | React, JavaScript | 멋쟁이사자처럼 어흥콘 인기상 | [한케어](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
-| 2024.06<br>-2024.07 | MZ세대인 단편 영화인들의 성장을 위한 서비스, **단장** | HTML, CSS | | [단장](https://github.com/2024-HERETHON/2024-Herethon-16) |
+| 2025.08<br>- 2026.02 | Webfounders | 숙명여대 멋쟁이사자처럼 리쿠르팅 및 홍보 웹사이트 | React, TypeScript | [SMWU Likelion](https://github.com/Likelion-at-SMWU-WebFounder) |
+| 2025.03<br>- 2025.10 | MON+DAY| 중학생을 위한 AI기반 경제 교육 플랫폼 | Next.js, TypeScript | [MON+DAY](https://github.com/MON-DA-Y)|
+| 2025.03<br>- 2025.05 | New JonUs | 조인어스 리팩토링 및 디자인/기능 개선 | React, TypeScript | [New JoinUs](https://github.com/2024-line4-earth/New_Joinus_FE) |
+| 2025.04<br>- 2025.06 | HIKERS | 등산 여정 전체를 지원하는 올인원 등산 플랫폼 | React, TypeScript  |[HIKERS](https://github.com/hiker-s)|
+| 2024.11 ~ 2024.12 | WakeupBuddy | 뇌파 감지를 통한 학습 환경 졸음 진동 경고 서비스| React, JavaScript |[WakeupBuddy](https://github.com/HCI-WakeupBuddy)|
+| 2024.10<br>-2024.11 | JoinUS | 공유를 통해 환경보호를 실천하고자 하는 서비스 | React, JavaScript | [JoinUs](https://github.com/2024-line4-earth) |
+| 2024.07<br>-2024.09 | HanCard | 한의학 기반 맞춤형 건강관리 서비스 | React, JavaScript | [HanCare](https://github.com/Likelion-at-SMWU-12th/Hanappun-Client/blob/main/README.md) |
+| 2024.06<br>-2024.07 | DANJANG | MZ세대인 단편 영화인들의 성장을 위한 서비스 | HTML, CSS | [DANJANG](https://github.com/2024-HERETHON/2024-Herethon-16) |
 <br>
 
 
-### 🛖 I'm in ..
-| |소속| 
-|---|---|
-| 2026.03-2026.06 | 산학협력 인턴 ||
-| 2026.01-2026.02 | IBK기업은행 2026년 동계 체험형 청년인턴 |
-| 2025.01-2025.12 | 멋쟁이사자처럼 대학 숙명여대 13기 프론트엔드장 |
-| 2024.03-2024.12 | [멋쟁이사자처럼 대학 숙명여대 12기](https://github.com/Likelion-at-SMWU-12th) 프론트엔드 아기사자 |
-| 2024.02-2024.08 | 코드하나 CNTO - 어린이 코딩교육동아리 8기 기획부장 |
-| 2023.09-2024.01 | [코드하나 CNTO - 어린이 코딩교육동아리](https://www.codehana.co.kr/) 7기 망원초 담당, 기획부원] |
+## Experience
 
-<br>
+### - 2026
+- Cooperative Education (Co-op) Program (2026.03 - 2026.06) 
+- IBK Bank Digital Field Internship (2026.01 - 2026.02)
 
-### 🔥 My experience
-- 🔥 2024 멋쟁이사자처럼 여대 연합 해커톤 [HERETHON](https://harvest-machine-d20.notion.site/2024-HERETHON-01a0143f27d240ae9ad742ceddf18ac6) 본선
-- 🔥 2024 멋쟁이사자처럼 대학 12th HACKATHON 참여
-- ✨ 2024 멋쟁이사자처럼 대학 연합 네트워킹 [어흥콘](https://ryuseunghan.notion.site/2024-d3216bd249b8427caca1e38913c9238c) 인기상
-- 🏆 2024 멋쟁이사자처럼 대학 [4호선톤](https://www.notion.so/4-108d5e50be41800685fcddaf211f3c1f?pvs=4) 대상
-- 💫 2025 [서울 열린데이터광장 공공데이터 활용 창업 경진대회](https://data.seoul.go.kr/together/cpthb/cpthbDetail.do) 발표심사 대상 8팀 선정
-- 🏅 2026 
+### - 2025
+- Likelion Univ 13th Executive : SMWU Likelion Frontend Lead (2025.03 - 2025.12)
+- Awarded at SOSP (SMU Open-Source Platform) : Grand Prize (2025.07-2025.08)
+- Seoul Open Data Plaza Public Data Utilization Startup Competition : Selected as a Finalist (Top 8 Teams) (2025-03.2025.05)
 
-<br>
-<br>
+### - 2024
+- Likelion Univ 12th (2024.03 - 2024.12)
+- Awarded at Likelion Line 4 Hackathon : Grand Prize, JoinUs Project (2024.10 – 2024.11)
+- Awarded at Likelion EoheungCon Networking Event : Popularity Award, Develop Hancard Project (2024.08 - 2024.09)
+- LIKELION University 12th Hackathon : HanCard Project (2024.07 - 2024.08)
+-	HERETHON Women’s Universities Joint Hackathon : Finalist, DANJANG Project (2024.06 - 2024.07)
+- CodHana CNTO 8th Executive : Head of Planning Division (2024.03 - 2024.08)
+
+### - 2023
+- CodeHana CNTO (Children’s Coding Education Volunteer Club) 7th Cohort : Mangwon Elementary School Coordinator (2023.09 - 2023.02)
 
 
-<br>
-
-<div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flatr&logo=typescript&logoColor=white"/>&nbsp;
-</div>
-
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Gitkraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>&nbsp;
-</div>
-
-<br>
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=uehddms&theme=solarized-dark&border_radius=20)](https://git.io/streak-stats)-->
